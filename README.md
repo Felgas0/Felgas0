@@ -28,11 +28,11 @@
   <br/>
   <strong>Programming languages</strong>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,postgres&perline=5" height="48" alt="HTML, CSS, React, Node.js and PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,spring,postgres&perline=6" height="48" alt="HTML, CSS, React, Node.js, Spring Boot and PostgreSQL"/>
   <br/>
   <strong>Web development</strong>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,terraform,linux&perline=3" height="48" alt="Docker, Terraform and Linux"/>
+  <img src="https://skillicons.dev/icons?i=docker,linux&perline=2" height="48" alt="Docker and Linux"/>
   <br/>
   <strong>Tools and infrastructure</strong>
 </p>
