@@ -1,30 +1,59 @@
-# Hi, I'm Felgas 👋
+<h1 align="center">
+  Hello! I'm Felgas 👋
+</h1>
 
-Software engineering student finishing my degree, interested in building reliable software across the stack.
+<p align="center">
+  Software engineering student building practical software and exploring secure systems.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Felgas0">
+    <img src="https://img.shields.io/badge/GitHub-Felgas0-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+  </a>
+</p>
 
 ## About me
 
-- 🎓 Completing a degree in Software Engineering
-- 🔧 Interested in backend and frontend development
-- 🔐 Exploring cybersecurity and DevSecOps
-- ⚙️ Learning systems programming and lower-level software
+- 🎓 Finishing my degree in Software Engineering
+- 🧩 Interested in backend and frontend development
+- 🔐 Exploring cybersecurity, DevSecOps, and secure software delivery
+- ⚙️ Curious about systems programming and how software works under the hood
+- 🚀 Focused on turning coursework and ideas into useful, well-structured projects
 
-## Featured projects
+## Tech I work with
 
-- **[Argus](https://github.com/Felgas0/Argus)** — an open-source web vulnerability scanner for developers
-- **[devsecops_lab](https://github.com/Felgas0/devsecops_lab)** — experiments and practical work around secure delivery
-- **[padel-booking-system](https://github.com/Felgas0/padel-booking-system)** — a booking system project
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,c&perline=5" height="48" alt="Java, Kotlin, Python, JavaScript and C"/>
+  <br/>
+  <strong>Programming languages</strong>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&perline=4" height="48" alt="HTML, CSS, React and Node.js"/>
+  <br/>
+  <strong>Web development</strong>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,terraform,linux,git,github&perline=5" height="48" alt="Docker, Terraform, Linux, Git and GitHub"/>
+  <br/>
+  <strong>Tools and infrastructure</strong>
+</p>
 
-## Technologies
+## Projects
 
-`Java` · `Kotlin` · `Python` · `JavaScript` · `C` · `HCL`
+### [Argus](https://github.com/Felgas0/Argus)
 
-## Currently focusing on
+An open-source web vulnerability scanner for developers, focused on making security checks easier to run during development.
 
-Building practical projects, improving software architecture, and developing secure-by-default engineering habits.
+### [DevSecOps Lab](https://github.com/Felgas0/devsecops_lab)
 
-## Connect
+Hands-on experiments with secure software delivery, automation, and infrastructure.
 
-- [GitHub](https://github.com/Felgas0)
+### [Padel Booking System](https://github.com/Felgas0/padel-booking-system)
 
-> More projects and a personal portfolio website are coming soon.
+A Kotlin project for managing padel court bookings and related application workflows.
+
+## What I'm focusing on
+
+Improving my software architecture skills, building more complete full-stack applications, and learning how to design systems that are reliable and secure by default.
+
+## Let's connect
+
+Feel free to explore my repositories or reach out through [GitHub](https://github.com/Felgas0).
