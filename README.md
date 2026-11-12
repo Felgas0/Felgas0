@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Software engineering student building practical software and exploring secure systems.
+  Software engineering student • Backend and frontend development • Cybersecurity • Linux
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 - 🐧 I love Linux and enjoy learning how systems work
 - 🚀 Focused on turning coursework and ideas into useful, well-structured projects
 
-## Tech I work with
+## Technologies and tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,ts,c&perline=6" height="48" alt="Java, Kotlin, Python, JavaScript, TypeScript and C"/>
@@ -30,13 +30,15 @@
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,spring,postgres&perline=6" height="48" alt="HTML, CSS, React, Node.js, Spring Boot and PostgreSQL"/>
   <br/>
-  <strong>Web development</strong>
+  <strong>Web and backend development</strong>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=docker,linux,gcp&perline=3" height="48" alt="Docker, Linux and Google Cloud Platform"/>
   <br/>
   <strong>Tools and infrastructure</strong>
 </p>
 
-## What I'm focusing on
+## Current direction
 
-Improving my software architecture skills, building more complete full-stack applications, and learning how to design systems that are reliable and secure by default.
+- Building more complete full-stack applications
+- Strengthening my software architecture and backend development skills
+- Learning how to design reliable, secure-by-default systems
