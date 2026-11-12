@@ -40,7 +40,3 @@
 ## What I'm focusing on
 
 Improving my software architecture skills, building more complete full-stack applications, and learning how to design systems that are reliable and secure by default.
-
-## Let's connect
-
-Feel free to explore my repositories or reach out through [GitHub](https://github.com/Felgas0).
