@@ -24,15 +24,15 @@
 ## Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,c&perline=5" height="48" alt="Java, Kotlin, Python, JavaScript and C"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,ts,c&perline=6" height="48" alt="Java, Kotlin, Python, JavaScript, TypeScript and C"/>
   <br/>
   <strong>Programming languages</strong>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&perline=4" height="48" alt="HTML, CSS, React and Node.js"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,postgres&perline=5" height="48" alt="HTML, CSS, React, Node.js and PostgreSQL"/>
   <br/>
   <strong>Web development</strong>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,terraform,linux,git,github&perline=5" height="48" alt="Docker, Terraform, Linux, Git and GitHub"/>
+  <img src="https://skillicons.dev/icons?i=docker,terraform,linux&perline=3" height="48" alt="Docker, Terraform and Linux"/>
   <br/>
   <strong>Tools and infrastructure</strong>
 </p>
