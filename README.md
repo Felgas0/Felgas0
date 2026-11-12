@@ -18,6 +18,7 @@
 - 🧩 Interested in backend and frontend development
 - 🔐 Exploring cybersecurity, DevSecOps, and secure software delivery
 - ⚙️ Curious about systems programming and how software works under the hood
+- 🐧 I love Linux and enjoy learning how systems work
 - 🚀 Focused on turning coursework and ideas into useful, well-structured projects
 
 ## Tech I work with
