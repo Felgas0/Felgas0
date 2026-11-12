@@ -32,7 +32,7 @@
   <br/>
   <strong>Web development</strong>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,linux&perline=2" height="48" alt="Docker and Linux"/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,gcp&perline=3" height="48" alt="Docker, Linux and Google Cloud Platform"/>
   <br/>
   <strong>Tools and infrastructure</strong>
 </p>
