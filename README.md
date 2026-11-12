@@ -36,20 +36,6 @@
   <strong>Tools and infrastructure</strong>
 </p>
 
-## Projects
-
-### [Argus](https://github.com/Felgas0/Argus)
-
-An open-source web vulnerability scanner for developers, focused on making security checks easier to run during development.
-
-### [DevSecOps Lab](https://github.com/Felgas0/devsecops_lab)
-
-Hands-on experiments with secure software delivery, automation, and infrastructure.
-
-### [Padel Booking System](https://github.com/Felgas0/padel-booking-system)
-
-A Kotlin project for managing padel court bookings and related application workflows.
-
 ## What I'm focusing on
 
 Improving my software architecture skills, building more complete full-stack applications, and learning how to design systems that are reliable and secure by default.
